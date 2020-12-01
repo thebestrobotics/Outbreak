@@ -1,1 +1,6 @@
 slprj
+*.bin
+*.elf
+*.hex
+*.slxc
+*_ert_rtw
